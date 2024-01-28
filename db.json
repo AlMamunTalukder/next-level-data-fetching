@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exciting Adventure",
+      "description": "Embark on a thrilling journey filled with unexpected twists and turns. Explore mysterious lands and encounter fascinating creatures in this epic adventure.",
+      "likes_count": 120
+    },
+    {
+      "id": 2,
+      "title": "Delicious Recipes",
+      "description": "Discover mouth-watering recipes that will tantalize your taste buds. From savory dishes to sweet delights, indulge in a culinary experience like never before.",
+      "likes_count": 80
+    },
+    {
+      "id": 3,
+      "title": "Fitness Motivation",
+      "description": "Get inspired to lead a healthier lifestyle with our collection of fitness tips and motivational stories. Achieve your fitness goals and celebrate every small victory.",
+      "likes_count": 150
+    },
+    {
+      "id": 4,
+      "title": "Mindful Meditation",
+      "description": "Immerse yourself in the art of mindfulness meditation. Find peace and serenity as you practice mindfulness techniques to calm your mind and reduce stress.",
+      "likes_count": 90
+    },
+    {
+      "id": 5,
+      "title": "Tech Innovations",
+      "description": "Stay updated on the latest tech innovations shaping the future. Explore groundbreaking technologies and their impact on various industries around the globe.",
+      "likes_count": 200
+    },
+    {
+      "id": 6,
+      "title": "Artistic Creations",
+      "description": "Dive into the world of creativity with mesmerizing artworks and artistic expressions. Experience the beauty of diverse artistic styles that captivate the imagination.",
+      "likes_count": 110
+    }
+  ]
+}
